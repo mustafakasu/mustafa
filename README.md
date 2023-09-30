@@ -1,3 +1,1 @@
-# mustafa
-this is my first repository 
-Author mustafa kasubhai wala 
+# this is my first repo 
